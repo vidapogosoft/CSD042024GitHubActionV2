@@ -1,0 +1,16 @@
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\bin\Debug\net5.0\Bank.exe
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\bin\Debug\net5.0\Bank.deps.json
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\bin\Debug\net5.0\Bank.dll
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\bin\Debug\net5.0\Bank.pdb
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.dll
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\refint\Bank.dll
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.pdb
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+D:\vidapogosoft\cursos\2023\SIPECOM\TestAutomatizadosFCME\AzureDevops1\Bank\obj\Debug\net5.0\ref\Bank.dll
